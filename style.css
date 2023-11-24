@@ -1,0 +1,108 @@
+body {
+  background-color: lightslategrey;
+}
+#head {
+  text-align: center;
+  color: tomato;
+}
+
+p {
+  color: white;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+/* img{
+       padding-left: 100px;
+       width:2px;
+} */
+/* .firstbox{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin:5rem;
+    background-color: beige;
+  
+  
+} */
+
+#one {
+  padding-top: 2rem;
+  background-color: darkorange;
+  /* height: 284px; */
+}
+
+#two {
+  padding: 2rem;
+  background-color: deepskyblue;
+  /* height: 284px; */
+}
+
+#three {
+  display: grid;
+  grid-template-columns: 100% 50%;
+  background-color: tomato;
+  /* margin-top: 2em; */
+  padding-top: 2rem;
+}
+#second {
+  margin-top: 2rem;
+  background-color: tomato;
+}
+
+#iccon {
+  margin-top: 2px;
+  padding-top: 2rem;
+  background-color: tomato;
+}
+
+#para {
+  background-color: tomato;
+}
+#four {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top: 2em;
+  background-color: deepskyblue;
+  padding: 2rem;
+  /* height: 225px; */
+}
+
+#five {
+  background-color: deepskyblue;
+  margin-top: 2rem;
+  /* height: 225px; */
+}
+
+#six {
+  background-color: tomato;
+  margin-left: 12px;
+  margin-top: 2rem;
+}
+
+#seven {
+  background-color: darkorange;
+  margin-top: 2rem;
+  margin-right: 12px;
+}
+
+#eight {
+  margin-top: 2rem;
+  background-color: deepskyblue;
+}
+
+#nine {
+  margin-top: 2rem;
+  background-color: deepskyblue;
+  height: 105px;
+}
+
+#tv {
+  padding: 10px;
+  height: 105px;
+}
